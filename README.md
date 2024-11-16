@@ -1,5 +1,3 @@
-# machine-learning
-machinelearning projects
 # 기계학습 및 실습 과제
 
 작성자: 인공지능융합학부 안효승(2019100021)
